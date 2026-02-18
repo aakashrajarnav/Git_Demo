@@ -1,7 +1,7 @@
 git clone <repo-url>
 
-main
+git pull origin main
+
 git push origin main
 
-dev
-git pull origin main
+git stash
