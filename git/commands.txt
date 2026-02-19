@@ -1,0 +1,9 @@
+git clone <repo-url>
+
+git pull origin main
+
+git push origin main
+
+git stash
+
+git cherry-pick <commit-id>
